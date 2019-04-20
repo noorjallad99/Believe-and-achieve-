@@ -1,0 +1,2 @@
+gui.SecretarysAuthority
+gui.SecretarysAuthority$1

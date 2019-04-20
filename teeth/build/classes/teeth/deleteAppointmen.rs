@@ -1,0 +1,2 @@
+teethclinic.deleteAppointmen
+teethclinic.deleteAppointmen$1
