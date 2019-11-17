@@ -4,4 +4,6 @@ Pink
 Green
 Yellow
 Red
+Pink
+
 There are the colors of my Rainbow
